@@ -86,3 +86,11 @@ A simple and interactive password strength checker built with React.js and Vite.
 
 5. Vercel (Deployment)
 
+
+
+-------DEPLOYMENT LINK----------
+
+Deployed on vercel
+
+Access the project at https://hacko-squad-project.vercel.app/
+
