@@ -44,7 +44,10 @@ const PasswordStrengthChecker = () => {
   return (
     <div className="container">
       <div className="card">
-        <h2 className="title">Password Strength Checker</h2>
+        <h1 className="title">
+          <span className="title-password">Password</span>
+          <span className="title-strength">Strength Checker</span>
+        </h1>
 
         <div className="password-wrapper">
           <input
